@@ -12,6 +12,8 @@ Sections have the following options:
 - Mobile padding bottom
 - Margin top
 - Margin bottom
+- Mobile margin top
+- Mobile margin bottom
 - Background color
 - Background image
 - Background image opacity
