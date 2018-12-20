@@ -10,8 +10,11 @@ Sections have the following options:
 - Padding bottom
 - Mobile padding top
 - Mobile padding bottom
+- Margin top
+- Margin bottom
 - Background color
 - Background image
 - Background image opacity
 - Overlay color
-- Overlay color opacity
+- Overlay image
+- Overlay opacity
