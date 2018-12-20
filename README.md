@@ -13,5 +13,5 @@ Sections have the following options:
 - Background color
 - Background image
 - Background image opacity
-- overlay color
-- overlay color opacity
+- Overlay color
+- Overlay color opacity
