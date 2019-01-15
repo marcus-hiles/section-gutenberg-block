@@ -5,7 +5,6 @@
  *
  * TODO:
  *  - checkRequiredFiles
- *  - printBuildError
  */
 'use strict';
 
