@@ -3,8 +3,6 @@
  *
  * The create-guten-block CLI starts here.
  *
- * TODO:
- *  - checkRequiredFiles
  */
 'use strict';
 
